@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../img"
+		}
+	],
+	"settings": {}
+}
